@@ -7,9 +7,8 @@ A simple JavaScript project that allows you to add and remove friends using the 
 
 ## Features
 
-- Add friends: Input a friend's name and click the "Add Friend" button to add them to the list.
+- Add friends: when button clicked the "Add Friend" button to show friends.
 - Remove friends: Click the "Remove" button next to a friend's name to remove them from the list.
-- Real-time updates: Your friend list is updated in real-time as you add and remove friends.
 - User-friendly interface: Easy-to-use and intuitive interface for managing your friends.
 
   
