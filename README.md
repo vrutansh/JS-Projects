@@ -1,2 +1,15 @@
 # JS-Projects
 This repository is a collection of small JavaScript projects that focus on fundamental concepts, including DOM manipulation and functions. Whether you're a beginner looking to learn JavaScript or an experienced developer brushing up on the basics, this repository offers a range of projects to explore and learn from.
+
+# 1. Add Friend Project
+
+A simple JavaScript project that allows you to add and remove friends using the Document Object Model (DOM). You can dynamically add friend entries and remove them as needed. This project serves as a basic demonstration of DOM manipulation in JavaScript.
+
+## Features
+
+- Add friends: Input a friend's name and click the "Add Friend" button to add them to the list.
+- Remove friends: Click the "Remove" button next to a friend's name to remove them from the list.
+- Real-time updates: Your friend list is updated in real-time as you add and remove friends.
+- User-friendly interface: Easy-to-use and intuitive interface for managing your friends.
+
+  
