@@ -18,4 +18,8 @@ The "Instagram-Like Button" feature is a delightful addition to your web applica
 # Features
 - Double click to like : When user Double click the photo "like" indicated by heart icon will be appeaer briefly and disappears like instagram.
 - Real time Feedback
-  
+
+# 3. Multiple image Hovering Animation  
+
+## Features
+
