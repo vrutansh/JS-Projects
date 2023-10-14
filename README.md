@@ -20,6 +20,12 @@ The "Instagram-Like Button" feature is a delightful addition to your web applica
 - Real time Feedback
 
 # 3. Multiple image Hovering Animation  
+ This project is a collection of multiple image hover animations implemented using HTML, CSS, and JavaScript. Each animation is designed to create an engaging and interactive experience when users hover over the images.
 
 ## Features
+
+- Multiple image hover animations with various effects.
+- Smooth and interactive animations on hover.
+- Easy to customize and integrate into your web projects.
+- Examples of different image hover effects for inspiration.
 
