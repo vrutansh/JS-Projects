@@ -15,7 +15,7 @@ A simple JavaScript project that allows you to add and remove friends using the 
 
 The "Instagram-Like Button" feature is a delightful addition to your web application, allowing users to express their appreciation for photos or content by simply double-clicking on an image. Inspired by the popular social media platform, Instagram, this feature enables users to interact with content in a visually engaging way.
 
-# Features
+## Features
 - Double click to like : When user Double click the photo "like" indicated by heart icon will be appeaer briefly and disappears like instagram.
 - Real time Feedback
 
