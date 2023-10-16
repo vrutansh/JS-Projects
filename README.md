@@ -19,7 +19,15 @@ The "Instagram-Like Button" feature is a delightful addition to your web applica
 - Double click to like : When user Double click the photo "like" indicated by heart icon will be appeaer briefly and disappears like instagram.
 - Real time Feedback
 
-# 3. Multiple image Hovering Animation  
+
+# 3. InstaGram Story Feature
+The Instagram Story Profile Picture Feature: Click on a user's profile picture to view a 2-second story.Enhancing user engagement and making profiles more interactive
+
+## Features
+- offering a dynamic interaction
+- Click on Profile Pics to see the stories
+
+# 4. Multiple image Hovering Animation  
  This project is a collection of multiple image hover animations implemented using HTML, CSS, and JavaScript. Each animation is designed to create an engaging and interactive experience when users hover over the images.
 
 ## Features
