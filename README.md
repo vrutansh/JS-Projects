@@ -37,3 +37,6 @@ The Instagram Story Profile Picture Feature: Click on a user's profile picture t
 - Easy to customize and integrate into your web projects.
 - Examples of different image hover effects for inspiration.
 
+# 5. Random Quote Generator
+This Project generates Random qoutes when clicked on New Quotes.
+
