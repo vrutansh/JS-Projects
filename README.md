@@ -5,7 +5,7 @@ This repository is a collection of small JavaScript projects that focus on funda
 
 A simple JavaScript project that allows you to add and remove friends using the Document Object Model (DOM). You can dynamically add friend entries and remove them as needed. This project serves as a basic demonstration of DOM manipulation in JavaScript.
 
-## Features
+## Features:
 
 - Add friends: when button clicked the "Add Friend" button to show friends.
 - Remove friends: Click the "Remove" button next to a friend's name to remove them from the list.
@@ -15,7 +15,7 @@ A simple JavaScript project that allows you to add and remove friends using the 
 
 The "Instagram-Like Button" feature is a delightful addition to your web application, allowing users to express their appreciation for photos or content by simply double-clicking on an image. Inspired by the popular social media platform, Instagram, this feature enables users to interact with content in a visually engaging way.
 
-## Features
+## Features:
 - Double click to like : When user Double click the photo "like" indicated by heart icon will be appeaer briefly and disappears like instagram.
 - Real time Feedback
 
@@ -23,14 +23,14 @@ The "Instagram-Like Button" feature is a delightful addition to your web applica
 # 3. InstaGram Story Feature
 The Instagram Story Profile Picture Feature: Click on a user's profile picture to view a 2-second story.Enhancing user engagement and making profiles more interactive
 
-## Features
+## Features:
 - offering a dynamic interaction
 - Click on Profile Pics to see the stories
 
 # 4. Multiple image Hovering Animation  
  This project is a collection of multiple image hover animations implemented using HTML, CSS, and JavaScript. Each animation is designed to create an engaging and interactive experience when users hover over the images.
 
-## Features
+## Features:
 
 - Multiple image hover animations with various effects.
 - Smooth and interactive animations on hover.
