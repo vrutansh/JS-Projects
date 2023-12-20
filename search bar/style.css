@@ -50,8 +50,8 @@ input{
     border: 2px soldi #dadada;
     width: 5vw;
     height: 5vw;
-    background-color: red;
-}
+/*     background-color: red; */
+} 
 
 .img img{
     height: 100%;
