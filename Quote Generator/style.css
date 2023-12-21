@@ -39,7 +39,7 @@ body{
 .Quote h2::after{
     content: '';
     width: 74px;
-    height: 3px;
+    height: 4px;
     border-radius: 3px;
     background: rgb(23, 124, 229);
     position: absolute;
